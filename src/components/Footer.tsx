@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="col-span-1 lg:col-span-1">
             <div className="flex items-center gap-3 mb-6">
               <img 
-                src="/logo.png" 
+                src="logo.png" 
                 alt="Terra Sentinel Logo" 
                 className="h-12 w-auto object-contain"
               />
