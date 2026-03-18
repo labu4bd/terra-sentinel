@@ -19,7 +19,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <div className="flex items-center gap-3">
               <img 
-                src="logo.png" 
+                src="/logo.png" 
                 alt="Terra Sentinel Logo" 
                 className="h-16 w-auto object-contain"
               />
